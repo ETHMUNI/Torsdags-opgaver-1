@@ -1,3 +1,4 @@
 # Torsdags-opgaver-1
 
-This is a README.md 
+Navn: Mounir Salem
+Mail: cph-ms848@cphbusiness.dk
